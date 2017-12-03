@@ -1,3 +1,15 @@
 [
-    "index.md"
+    "index.md",
+    [
+        "about.md",
+        "about/school.md",
+        "about/work.md",
+        {
+            "filename": "about/saglac-io.md",
+            "attr": {
+                "data-background": "resources/banner.png"
+            }
+        }
+    ],
+    "summary.md"
 ]

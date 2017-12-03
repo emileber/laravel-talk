@@ -1,10 +1,7 @@
 
-# Une fondation solide avec Laravel
+# Laravel
 
-From the terminal, pop in:
+## Une fondation solide 
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+Émile Bergeron, B. Inf.  
+<small>Développeur, Ellipse Synergie</small>  
