@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Une fondation solide avec Laravel",
+    "packageVersion": "0.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "emileber",
+    "githubRepository": "laravel-talk"
+  }
+}
