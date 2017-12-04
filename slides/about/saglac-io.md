@@ -2,5 +2,15 @@
 
 ### Rencontre technologique du Saguenay—Lac-St-Jean
 
-Dans une formule 5 à 7 informel, les passionnés d'informatique du Saguenay—Lac-St-Jean partagent leur passion et leurs dernières découvertes.
+- 5 à 7 informel
+- Passionnés d'informatique du Saguenay—Lac-St-Jean
+- Présentations de 15 minutes
 
+https://saglac.io/
+
+Note:
+- Julien Bergeron
+- Alternance Saguenay-Alma
+- Gratuit
+- Réseautage et discussions
+- Page Facebook
