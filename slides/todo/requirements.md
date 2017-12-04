@@ -1,7 +1,7 @@
 ## Prérequis
 
 - Serveur web 
-  - Php (idéalement 7.1+)
+  - PHP (idéalement 7.1+)
   - MySQL
   - nginx ou Apache
 - Composer

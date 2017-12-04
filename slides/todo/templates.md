@@ -12,9 +12,9 @@ Le plus proche du navigateur, le HTML généré avec [Laravel Blade](https://lar
 </tbody>
 ```
 
-Compilé en Php et mis en cache, donc aucun impact sur la performance.
+Compilé en PHP et mis en cache, donc aucun impact sur la performance.
 
 Note:
-- Php est toujours disponible
+- PHP est toujours disponible
 - Héritage, inclusion, etc.
 - Plusieurs raccourcis simple

@@ -1,6 +1,6 @@
 ## Site dynamique
 
-On ajoute Php et JavaScript pour un dynamisme minimal.
+On ajoute PHP et JavaScript pour un dynamisme minimal.
 
 - Formulaire de contact
 - Animation 
