@@ -2,8 +2,8 @@
 
 - Objectif
 - Comparaison des options
+- _Todo list_ avec Laravel
 - Particularités de Laravel
-- Démonstration
 - Questions
 
 Note:

@@ -1,8 +1,11 @@
-## Expériences de travail
+## Projets professionnels
 
-### Eckinox Media
-### L'Entreprise TLM
-### Ellipse Synergie
+- Multiple sites corpo
+- Applications/portails web (SPA)
+- Produits web avec Laravel
+
+
+
 
 Note:
 - Eckinox Media
@@ -12,3 +15,4 @@ Note:
 - Ellipse Synergie
   - Service vs Produits
   - Produits web avec Laravel
+  - Postes ouverts

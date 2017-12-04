@@ -1,0 +1,17 @@
+.grid {
+    display: table;
+    width: 100%;
+
+    &.grid-fixed {
+        table-layout: fixed;
+    }
+
+    .row {
+        display: table-row;
+    }
+
+    .col {
+        display: table-cell;
+    }
+
+}

@@ -20,5 +20,34 @@
         "techno/libraries.md",
         "techno/framework.md",
         "techno/cms.md"
-    ]
+    ],
+    [
+        "todo.md",
+        "todo/requirements.md",
+        "todo/composer.md",
+        "todo/installation.md",
+        "todo/migrations.md",
+        "todo/models.md",
+        "todo/routing.md",
+        "todo/views.md",
+        "todo/layout.md",
+        "todo/template.md",
+        "todo/contollers.md",
+        "todo/result.md"
+    ],
+    "laravel.md",
+    [
+        "features.html",
+        "features/authentication.md",
+        "features/cache.md",
+        "features/configurations.md",
+        "features/emails.md",
+        "features/error.md",
+        "features/middleware.md",
+        "features/security.md",
+        "features/session.md",
+        "features/storage.md",
+        "features/unit-tests.md"
+    ],
+    "questions.md"
 ]
