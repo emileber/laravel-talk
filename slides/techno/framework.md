@@ -2,7 +2,7 @@
 
 Ensemble de bibliothèques connectées et offrant une interface simplifiée pour le développement.
 
-- Symfony (Php)
-- Laravel (Php)
+- Symfony (PHP)
+- Laravel (PHP)
 - Django (Python)
 - Ruby on Rails
