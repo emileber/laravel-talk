@@ -22,6 +22,7 @@
     "url": "git@github.com:emileber/laravel-talk.git"
   },
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "deploy": "grunt deploy"
   }
 }
