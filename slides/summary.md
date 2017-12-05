@@ -1,9 +1,9 @@
 ## Sommaire
 
-- Objectif
-- Comparaison des options
-- _Todo list_ avec Laravel
-- Particularités de Laravel
+- Comparaison des technologies disponibles
+- Pourquoi choisir Laravel
+- Demonstration avec _Todo list_
+- Fonctionnalités supplémentaires
 - Questions
 
 Note:
