@@ -1,8 +1,6 @@
 ## Quelle technologie dois-je utiliser?
 
-- Site statique
-- Site dynamique
+- Site statique ou dynamique
 - Bibliothèques _(Libraries)_
 - Framework
 - CMS
-

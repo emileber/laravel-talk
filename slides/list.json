@@ -13,13 +13,15 @@
     ],
     "summary.md",
     "introduction/different-websites.md",
-    "introduction/technologies.md",
     [
+        "technologies.md",
         "techno/static.md",
         "techno/dynamic.md",
         "techno/libraries.md",
         "techno/framework.md",
-        "techno/cms.md"
+        "techno/static-framework.html",
+        "techno/cms.md",
+        "techno/static-cms.md"
     ],
     [
         "todo.md",

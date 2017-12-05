@@ -1,10 +1,12 @@
-## Site statique
+## Site statique à la main
 
 HTML et CSS dans [Notepad++](https://notepad-plus-plus.org/fr/).
 
 - Site vitrine
 - Portfolio
 
-### Générateur de sites statiques
+[~~motherfucking~~website.com](http://motherfuckingwebsite.com/)
 
-Jekyll, Hugo, etc.
+Note:
+- Landing page
+- Beaucoup de répétition

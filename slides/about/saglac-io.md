@@ -2,9 +2,9 @@
 
 ### Rencontre technologique du Saguenay—Lac-St-Jean
 
-- 5 à 7 informel
-- Passionnés d'informatique du Saguenay—Lac-St-Jean
-- Présentations de 15 minutes
+5 à 7 informel  
+Passionnés d'informatique  
+Présentations de 15 minutes  
 
 https://saglac.io/
 
