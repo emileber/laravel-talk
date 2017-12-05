@@ -4,3 +4,7 @@
 - Blogue personnel
 - Commerce en ligne
 - Application web
+
+Note:
+Avant de se lancer dans Laravel  
+Pas seulement Laravel

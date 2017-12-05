@@ -1,17 +1,14 @@
 ## Projets professionnels
 
-- Multiple sites corpo
+- Multiples sites corpo
 - Applications/portails web (SPA)
 - Produits web avec Laravel
 
-
-
-
 Note:
-- Eckinox Media
-  - Multiple sites corpo
-- L'Entreprise TLM
-  - Applications/portails web (SPA)
+- CMS PHP maison
+- Django
+- Techno JavaScript: AngularJS, Backbone.js, jQuery
+- Laravel
 - Ellipse Synergie
   - Service vs Produits
   - Produits web avec Laravel
