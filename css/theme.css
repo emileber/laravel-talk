@@ -295,3 +295,6 @@ body {
     display: table-row; }
   .grid .col {
     display: table-cell; }
+
+.reveal section img {
+  background: #fff; }

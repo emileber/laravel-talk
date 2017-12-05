@@ -14,7 +14,7 @@
     "summary.md",
     "introduction/different-websites.md",
     [
-        "technologies.md",
+        "techno/technologies.md",
         "techno/static.md",
         "techno/dynamic.md",
         "techno/libraries.md",
@@ -24,7 +24,13 @@
         "techno/static-cms.md"
     ],
     [
-        "todo.md",
+        "laravel/laravel.md",
+        "laravel/foundation.md",
+        "laravel/google-trends.html",
+        "laravel/stackoverflow-trends.md"
+    ],
+    [
+        "todo/todo.md",
         "todo/requirements.md",
         "todo/composer.md",
         "todo/installation.md",
@@ -37,7 +43,6 @@
         "todo/controllers.md",
         "todo/result.md"
     ],
-    "laravel.md",
     [
         "features.html",
         "features/authentication.md",
@@ -51,5 +56,6 @@
         "features/storage.md",
         "features/unit-tests.md"
     ],
+    "lumen.md",
     "questions.md"
 ]

@@ -7,3 +7,6 @@ S'il y a un fichier `composer.json`:
 ```bash
 $ composer install
 ```
+
+Note:
+- Ne nécessite pas Laravel
