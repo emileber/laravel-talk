@@ -294,7 +294,9 @@ body {
   .grid .row {
     display: table-row; }
   .grid .col {
-    display: table-cell; }
+    display: table-cell;
+    vertical-align: middle; }
 
 .reveal section img {
-  background: #fff; }
+  background: #fff;
+  padding: 10px; }
