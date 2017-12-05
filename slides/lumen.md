@@ -1,6 +1,4 @@
-## Alternative légère
-
-[Lumen](https://lumen.laravel.com/)
+## [Lumen](https://lumen.laravel.com/)
 
 > The stunningly fast micro-framework by Laravel.
 
@@ -15,3 +13,6 @@ $app->post('framework/{id}', function($framework) {
 	$this->dispatch(new Energy($framework));
 });
 ```
+
+Note:
+Alternative légère

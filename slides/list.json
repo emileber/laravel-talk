@@ -40,6 +40,7 @@
         "demo/routing.md",
         "demo/views.md",
         "demo/templates.md",
+        "demo/validation.md",
         "demo/controllers.md",
         "demo/result.md"
     ],
@@ -53,8 +54,10 @@
         "features/session.md",
         "features/error.md",
         "features/storage.md",
-        "features/unit-tests.md"
+        "features/unit-tests.md",
+        "features/more.md"
     ],
+    "laracast.md",
     "lumen.md",
     "questions.md"
 ]
