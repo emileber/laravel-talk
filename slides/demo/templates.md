@@ -1,6 +1,7 @@
 ## Templates
 
-Le plus proche du navigateur, le HTML généré avec [Laravel Blade](https://laravel.com/docs/5.5/blade).
+Le plus proche du navigateur, le HTML généré avec  
+[Laravel Blade](https://laravel.com/docs/5.5/blade).
 
 ```html
 <tbody>

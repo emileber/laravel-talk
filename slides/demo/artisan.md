@@ -13,3 +13,9 @@ make
   make:model          Create a new Eloquent model class
   ...
 ```
+
+Note:
+- Template de fichier (Controllers, Modesl, etc.)
+- Maintenance (Cache, migration)
+- Console intéractive
+- Commandes personnalisées

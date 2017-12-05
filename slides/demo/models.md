@@ -5,8 +5,6 @@
 Un modèle correspond à une table dans la base de données.
 
 ```php
-namespace App;
-
 use Illuminate\Database\Eloquent\Model;
 
 class Task extends Model { }
@@ -19,4 +17,4 @@ Task::orderBy('created_at', 'asc')->get()
 ```
 
 Note:
-Peut être vide, mais nécessaire.
+- Peut être vide, mais nécessaire.

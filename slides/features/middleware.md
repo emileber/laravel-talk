@@ -1,6 +1,9 @@
 ## Middleware
 
-
+![Middleware diagram](resources/middleware.png)
 
 Note:
-Intergiciel ?!
+- Intergiciel ?!
+- Personnalisable facilement
+- Ordonée
+- Certaines routes

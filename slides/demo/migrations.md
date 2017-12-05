@@ -18,4 +18,4 @@ public function up()
 ```
 
 Note:
-Besoin particulier = RAW SQL
+Pour besoin particulier = RAW SQL
